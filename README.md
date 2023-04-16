@@ -1,7 +1,7 @@
 <h1 align="center"> React Validated Login</h1>
 
 <p align="center">
-  Voce pode encontrar demo do projeto no github pages nesse <a href="https://lupebreak.github.io/LuPeBreak/react-validated-login-desafio-4">Link</a>
+  Voce pode encontrar demo do projeto no github pages nesse <a href="https://lupebreak.github.io/react-validated-login-desafio-4/">Link</a>
 </p>
 
 <p align="center">
